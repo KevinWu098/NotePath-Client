@@ -3,11 +3,11 @@ const About = () => {
         <div>
             <h1 style={{ marginBottom: "1rem" }}>About</h1>
             <p>
-                LeetCards aims to help users keep track of their{" "}
+                NotePath aims to help users keep track of their{" "}
                 <span style={{ color: "#E7A41E", fontWeight: "450" }}>
-                    LeetCode
+                    notes,
                 </span>{" "}
-                progress and learnings.
+                ideas, and more!
             </p>
             <p>
                 This site is a Vite + React web app built with NodeJS, Express,

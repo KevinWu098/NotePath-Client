@@ -1,5 +1,5 @@
 import { Link, NavLink } from "react-router-dom";
-import logo from "../assets/leetcode.png";
+import logo from "../assets/note.png";
 
 const Header = () => {
     return (
@@ -13,7 +13,7 @@ const Header = () => {
                         alignItems: "center",
                     }}
                 />
-                LeetCards
+                NotePath
             </Link>
 
             <nav>

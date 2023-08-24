@@ -7,10 +7,10 @@ const Home = () => {
             <p>
                 Keep track of your{" "}
                 <span style={{ color: "#E7A41E", fontWeight: "450" }}>
-                    LeetCode
+                    Notes!
                 </span>{" "}
-                progress and write down helpful notes to help you remember and
-                better understand problems!
+                What{"`"}ll you write down today? Perhaps some LeetCode notes ;
+                {")"}?
             </p>
 
             <Notes />
