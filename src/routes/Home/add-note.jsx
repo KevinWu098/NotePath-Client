@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 
 export default function AddNote() {
-    const baseURL = `${import.meta.env.VITE_SERVER_URL}/api/notes`;
+    const baseURL = `https://notepath-server.onrender.com/api/notes`;
     const [title, setTitle] = useState("");
     const [description, setDescription] = useState("");
     const [submitted, setSubmitted] = useState(false);

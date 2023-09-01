@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 
 function Notes() {
-    const baseURL = `${import.meta.env.VITE_SERVER_URL}/api/notes`;
+    const baseURL = `https://notepath-server.onrender.com/api/notes`;
 
     const [data, setData] = useState([]);
     const [isLoading, setIsLoading] = useState(true);
