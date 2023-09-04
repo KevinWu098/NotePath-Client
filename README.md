@@ -3,6 +3,10 @@
 ## Description
 A simple note-taking web app built with the MERN tech stack. This was built in React with Vite and uses a backend of Express, Node, and MongoDB.
 
+## Built With
+- The MERN tech stack (MongoDB, Express, React, Node.js)
+- Vite for frontend deployment
+
 ## Features
 - Full CRUD operations
 - Responsive UI
